@@ -149,11 +149,12 @@
 }
 
 .container {
-    margin: 0 46.667px;
+    margin: 0 auto;
     padding: 0 15px;
-    width: 1170px;
+    width: 90%;
     position: absolute;
     z-index: 1;
+    left: 4%;
 
 }
 
@@ -381,7 +382,7 @@ a {
 .footer-section {
     padding: 0 15px;
     width: 1170px;
-    margin: 0 46px;
+    margin: 0 auto;
 }
 
 
@@ -468,7 +469,7 @@ a {
 }
 
 .container-data {
-    margin: 30px 46.667px;
+    margin: 30px auto;
     padding: 0 15px;
     width: 1170px;
     padding-bottom: 20px;
