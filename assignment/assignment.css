@@ -378,20 +378,10 @@ a {
     font-size: 13px;
 }
 
-@media (min-width: 1281px) and (min-width: 1980px) {
-    .footer-section {
-        padding: 0 15px;
-        width: 1170px;
-        margin: 0 148px;
-    }
-}
-
-@media screen and (min-width: 1280px) {
-    .footer-section {
-        padding: 0 15px;
-        width: 1170px;
-        margin: 0 46px;
-    }
+.footer-section {
+    padding: 0 15px;
+    width: 1170px;
+    margin: 0 46px;
 }
 
 
