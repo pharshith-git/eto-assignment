@@ -406,3 +406,70 @@ a {
 .footer-copyright {
     padding: 65px 0 55px 0;
 }
+
+.best-asset {
+    font-size: 13px;
+    font-weight: 700;
+    color: #6e45e2;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.company-summary {
+    font-size: 48px;
+    font-weight: 700;
+    color: #000;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.summary-details-desc {
+    font-size: 33px;
+    font-weight: 400;
+    color: #4f4f6f;
+    margin: 0;
+    padding: 0;
+
+}
+
+.summary-details-text,
+.share-text,
+.businnes-text {
+    font-size: 13px;
+    font-weight: 400;
+    color: #9fa4af;
+    margin: 0;
+    padding: 0;
+
+}
+
+.share-desc {
+    font-size: 18px;
+    font-weight: 700;
+    color: #6e45e2;
+    margin: 0;
+    padding: 0;
+
+}
+
+.businnes-desc {
+    font-size: 18px;
+    font-weight: 700;
+    color: #ed145b;
+    margin: 0;
+    padding: 0;
+
+}
+
+.summary {
+    display: flex;
+}
+
+.container-data {
+    margin: 30px 46.667px;
+    padding: 0 15px;
+    width: 1170px;
+    padding-bottom: 20px;
+}
